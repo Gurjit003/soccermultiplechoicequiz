@@ -12,7 +12,7 @@ import java.awt.Color;  // Import for colour select for lblTwentyfirst
 
 public class frmmultiplechoicequiz extends javax.swing.JFrame {
 
-    /**
+    /*
      * Creates new form frmmultiplechoicequiz
      */
     public frmmultiplechoicequiz() {
@@ -513,20 +513,20 @@ public class frmmultiplechoicequiz extends javax.swing.JFrame {
                                     .addGap(70, 70, 70)
                                     .addComponent(lblTenth))
                                 .addGroup(pnlFirstLayout.createSequentialGroup()
-                                    .addGap(80, 80, 80)
-                                    .addComponent(btnTwentyninth))
+                                    .addGap(118, 118, 118)
+                                    .addComponent(lblNineteenth, javax.swing.GroupLayout.PREFERRED_SIZE, 39, javax.swing.GroupLayout.PREFERRED_SIZE))
                                 .addGroup(pnlFirstLayout.createSequentialGroup()
-                                    .addGap(97, 97, 97)
+                                    .addGap(80, 80, 80)
                                     .addGroup(pnlFirstLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                                        .addComponent(lblTwentysecond, javax.swing.GroupLayout.PREFERRED_SIZE, 60, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                        .addComponent(lblNineteenth, javax.swing.GroupLayout.PREFERRED_SIZE, 39, javax.swing.GroupLayout.PREFERRED_SIZE)))))))
+                                        .addComponent(lblTwentysecond, javax.swing.GroupLayout.PREFERRED_SIZE, 68, javax.swing.GroupLayout.PREFERRED_SIZE)
+                                        .addComponent(btnTwentyninth)))))))
                 .addContainerGap(83, Short.MAX_VALUE))
         );
         pnlFirstLayout.setVerticalGroup(
             pnlFirstLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(pnlFirstLayout.createSequentialGroup()
                 .addComponent(lblFirst)
-                .addGap(6, 6, 6)
+                .addGap(1, 1, 1)
                 .addComponent(lblSecond)
                 .addGap(4, 4, 4)
                 .addGroup(pnlFirstLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -626,7 +626,7 @@ public class frmmultiplechoicequiz extends javax.swing.JFrame {
                     .addComponent(btnTwentysixth)
                     .addComponent(btnTwentyseventh)
                     .addComponent(btnTwentyeighth))
-                .addContainerGap(13, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -767,8 +767,8 @@ public class frmmultiplechoicequiz extends javax.swing.JFrame {
         
         int totalcorrect = one + two + three + four + five + six + seven;
         lblNineteenth.setText("" + totalcorrect); // This displays the total number of correct answers
-        double percentage = (one + two + three + four + five + six + seven) * 14.2857142857; // 7
-        percentage = percentage * 10;
+        double percentage = (double)(one + two + three + four + five + six + seven)/ 7.0; // 7 14.2857142857
+        percentage = percentage * 1000;
         percentage = Math.round(percentage); 
         percentage = percentage / 10; // Line 774 to 776 is the percentage round up
         lblTwentysecond.setText( percentage + "%"); // This displays the percentage
