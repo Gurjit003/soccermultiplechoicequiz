@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="pnlFirst" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="pnlFirst" alignment="1" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="pnlFirst">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="99" red="99" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="549" pref="549" max="-2" attributes="0"/>
+                          <Component id="lblFirst" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="409" pref="409" max="-2" attributes="0"/>
+                          <Component id="lblSecond" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="198" pref="198" max="-2" attributes="0"/>
+                          <Component id="btnTwentyfifth" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="117" pref="117" max="-2" attributes="0"/>
+                          <Component id="btnTwentysixth" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="98" pref="98" max="-2" attributes="0"/>
+                          <Component id="btnTwentyseventh" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="122" pref="122" max="-2" attributes="0"/>
+                          <Component id="btnTwentyeighth" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="lblNinth" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="290" max="-2" attributes="0"/>
+                              <Component id="lblTwentyfirst" min="-2" pref="113" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="-2" pref="190" max="-2" attributes="0"/>
+                                              <Component id="btnFirst" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="57" pref="57" max="-2" attributes="0"/>
+                                              <Component id="btnSecond" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="53" pref="53" max="-2" attributes="0"/>
+                                              <Component id="btnThird" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="49" pref="49" max="-2" attributes="0"/>
+                                              <Component id="btnFourth" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="40" pref="40" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="lblFourth" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="lblThird" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <EmptySpace min="160" pref="160" max="-2" attributes="0"/>
+                                                      <Component id="btnFifth" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace min="101" pref="101" max="-2" attributes="0"/>
+                                                      <Component id="btnSixth" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace min="89" pref="89" max="-2" attributes="0"/>
+                                                      <Component id="btnSeventh" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace min="47" pref="47" max="-2" attributes="0"/>
+                                                      <Component id="btnEighth" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="47" pref="47" max="-2" attributes="0"/>
+                                              <Component id="lblFifth" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="191" pref="191" max="-2" attributes="0"/>
+                                              <Component id="btnNinth" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="87" pref="87" max="-2" attributes="0"/>
+                                              <Component id="btnTenth" min="-2" pref="73" max="-2" attributes="0"/>
+                                              <EmptySpace min="98" pref="98" max="-2" attributes="0"/>
+                                              <Component id="btnEleventh" min="-2" pref="73" max="-2" attributes="0"/>
+                                              <EmptySpace min="61" pref="61" max="-2" attributes="0"/>
+                                              <Component id="btnTwelfth" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <EmptySpace min="47" pref="47" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="lblSixth" min="-2" max="-2" attributes="0"/>
+                                          <Group type="102" attributes="0">
+                                              <EmptySpace min="153" pref="153" max="-2" attributes="0"/>
+                                              <Component id="btnThirteenth" min="-2" pref="73" max="-2" attributes="0"/>
+                                              <EmptySpace min="89" pref="89" max="-2" attributes="0"/>
+                                              <Component id="btnFourteenth" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="85" pref="85" max="-2" attributes="0"/>
+                                              <Component id="btnFifteenth" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="71" pref="71" max="-2" attributes="0"/>
+                                              <Component id="btnSixteenth" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Component id="lblSeventh" min="-2" max="-2" attributes="0"/>
+                                          <Group type="102" attributes="0">
+                                              <EmptySpace min="144" pref="144" max="-2" attributes="0"/>
+                                              <Component id="btnSeventeenth" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="89" pref="89" max="-2" attributes="0"/>
+                                              <Component id="btnEighteenth" min="-2" pref="71" max="-2" attributes="0"/>
+                                              <EmptySpace min="51" pref="51" max="-2" attributes="0"/>
+                                              <Component id="btnNineteenth" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="40" pref="40" max="-2" attributes="0"/>
+                                              <Component id="btnTwentieth" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Component id="lblEighth" min="-2" max="-2" attributes="0"/>
+                                          <Group type="102" attributes="0">
+                                              <EmptySpace min="126" pref="126" max="-2" attributes="0"/>
+                                              <Component id="btnTwentyfirst" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="67" pref="67" max="-2" attributes="0"/>
+                                              <Component id="btnTwentysecond" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="37" pref="37" max="-2" attributes="0"/>
+                                              <Component id="btnTwentythird" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="44" pref="44" max="-2" attributes="0"/>
+                                              <Component id="btnTwentyfourth" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="lblTwentieth" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="lblTwelfth" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="lblFourteenth" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="lblThirteenth" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="lblFifteenth" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="lblSixteenth" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="lblSeventeenth" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="lblEighteenth" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="lblEleventh" alignment="0" min="-2" pref="200" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
+                                      <Component id="lblTenth" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="80" max="-2" attributes="0"/>
+                                      <Component id="btnTwentyninth" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="97" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="1" attributes="0">
+                                          <Component id="lblTwentysecond" min="-2" pref="60" max="-2" attributes="0"/>
+                                          <Component id="lblNineteenth" min="-2" pref="39" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="83" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Component id="lblFirst" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                  <Component id="lblSecond" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="4" pref="4" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <Component id="lblTenth" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Component id="lblThird" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="btnFirst" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnSecond" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnThird" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnFourth" min="-2" max="-2" attributes="0"/>
+                                      <Group type="102" attributes="0">
+                                          <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                          <Component id="btnTwentyninth" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                                          <Component id="lblFourth" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="14" pref="14" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="btnFifth" min="-2" max="-2" attributes="0"/>
+                                              <Component id="btnSixth" min="-2" max="-2" attributes="0"/>
+                                              <Component id="btnSeventh" min="-2" max="-2" attributes="0"/>
+                                              <Component id="btnEighth" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                                          <Component id="lblFifth" min="-2" max="-2" attributes="0"/>
+                                          <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="btnNinth" min="-2" max="-2" attributes="0"/>
+                                              <Component id="btnTenth" min="-2" max="-2" attributes="0"/>
+                                              <Component id="btnEleventh" min="-2" max="-2" attributes="0"/>
+                                              <Component id="btnTwelfth" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                                          <Component id="lblNineteenth" min="-2" pref="29" max="-2" attributes="0"/>
+                                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                                          <Component id="lblTwentysecond" min="-2" pref="28" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="lblTwentieth" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="lblThirteenth" min="-2" pref="29" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="69" max="-2" attributes="0"/>
+                                  <Component id="lblTwelfth" min="-2" pref="29" max="-2" attributes="0"/>
+                                  <EmptySpace min="51" pref="51" max="-2" attributes="0"/>
+                                  <Component id="lblFourteenth" min="-2" pref="29" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="-2" pref="17" max="-2" attributes="0"/>
+                          <Component id="lblSixth" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="11" pref="11" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="btnThirteenth" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnFourteenth" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnFifteenth" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnSixteenth" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                                  <Component id="lblSeventh" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="lblFifteenth" alignment="0" min="-2" pref="29" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="btnSeventeenth" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnEighteenth" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnNineteenth" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnTwentieth" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                                  <Component id="lblEighth" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="11" pref="11" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="btnTwentyfirst" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnTwentysecond" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnTwentythird" min="-2" max="-2" attributes="0"/>
+                                      <Component id="btnTwentyfourth" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="lblSixteenth" min="-2" pref="29" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="66" max="-2" attributes="0"/>
+                                  <Component id="lblSeventeenth" min="-2" pref="29" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="210" max="-2" attributes="0"/>
+                          <Component id="lblEleventh" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="5" pref="5" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblNinth" min="-2" max="-2" attributes="0"/>
+                      <Component id="lblTwentyfirst" min="-2" pref="26" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblEighteenth" min="-2" pref="29" max="-2" attributes="0"/>
+                      <Component id="btnTwentyfifth" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnTwentysixth" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnTwentyseventh" min="-2" max="-2" attributes="0"/>
+                      <Component id="btnTwentyeighth" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="13" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="lblFirst">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="24" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Soccer Quiz"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSecond">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="20" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Answer each multiple choice question below"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblThird">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Question 1: Which club has won the second most honours among football clubs in Italy?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblFourth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Question 2: In which continent were the soccer balls made from pig bladders during the middle ages?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblFifth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Question 3: Which country has won the most world cups?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSixth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Question 4: Which country invented soccer?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSeventh">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Question 5: Who has scored the most goals in soccer history?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblEighth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Question 6: Who won the Fifa World Player of the Year Award in 2004 and 2005?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblNinth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Question 7: In what year will the world cup take place in Canada, USA, and Mexico?"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblTenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Total Correct:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblEleventh">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/emb_0010.png"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblTwelfth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblThirteenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblFourteenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblFifteenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSixteenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblSeventeenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblEighteenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblNineteenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblTwentieth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Marks:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblTwentyfirst">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lblTwentysecond">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="18" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnFirst">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="A.S. Roma "/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnFirstActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnSecond">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="S.S.C. Napoli"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSecondActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnThird">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Ac Milan"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnThirdActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnFourth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="ACF Fiorentina"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnFourthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnFifth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Europe"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnFifthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnSixth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Asia"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSixthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnSeventh">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Oceania"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSeventhActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnEighth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="South America"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnEighthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnNinth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Germany"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnNinthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnTenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Brazil"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnTenthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnEleventh">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Italy"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnEleventhActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnTwelfth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Argentina"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnTwelfthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnThirteenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Spain"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnThirteenthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnFourteenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Uruguay"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnFourteenthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnFifteenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="France"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnFifteenthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnSixteenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="England"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSixteenthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnSeventeenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Romario"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSeventeenthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnEighteenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Pele"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnEighteenthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnNineteenth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Arthur Friedenreich"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnNineteenthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnTwentieth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Josef Bican"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnTwentiethActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnTwentyfirst">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Ronaldinho"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnTwentyfirstActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnTwentysecond">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Lionel Messi"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnTwentysecondActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnTwentythird">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Cristiano Ronaldo"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnTwentythirdActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnTwentyfourth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="David Villa"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnTwentyfourthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnTwentyfifth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="2022"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnTwentyfifthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnTwentysixth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="2026"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnTwentysixthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnTwentyseventh">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="2030"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnTwentyseventhActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnTwentyeighth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="2034"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnTwentyeighthActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btnTwentyninth">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Calculate"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnTwentyninthActionPerformed"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
