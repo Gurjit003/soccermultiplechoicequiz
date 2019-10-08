@@ -165,14 +165,15 @@
                                       <Group type="103" groupAlignment="0" attributes="0">
                                           <Component id="lblTwelfth" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
                                           <Component id="lblFourteenth" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
-                                          <Component id="lblThirteenth" min="-2" pref="50" max="-2" attributes="0"/>
                                           <Component id="lblFifteenth" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
                                           <Component id="lblSixteenth" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
                                           <Component id="lblSeventeenth" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
                                           <Component id="lblEighteenth" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
+                                          <Component id="lblThirteenth" min="-2" pref="50" max="-2" attributes="0"/>
                                       </Group>
                                   </Group>
                               </Group>
+                              <EmptySpace max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
                                   <Component id="lblEleventh" alignment="0" min="-2" pref="200" max="-2" attributes="0"/>
                                   <Group type="102" alignment="0" attributes="0">
@@ -180,21 +181,21 @@
                                       <Component id="lblTenth" min="-2" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="0" attributes="0">
-                                      <EmptySpace min="-2" pref="118" max="-2" attributes="0"/>
-                                      <Component id="lblNineteenth" min="-2" pref="39" max="-2" attributes="0"/>
-                                  </Group>
-                                  <Group type="102" alignment="0" attributes="0">
                                       <EmptySpace min="-2" pref="80" max="-2" attributes="0"/>
                                       <Group type="103" groupAlignment="1" attributes="0">
-                                          <Component id="lblTwentysecond" min="-2" pref="68" max="-2" attributes="0"/>
                                           <Component id="btnTwentyninth" min="-2" max="-2" attributes="0"/>
+                                          <Component id="lblTwentysecond" alignment="1" min="-2" pref="68" max="-2" attributes="0"/>
+                                          <Group type="102" alignment="1" attributes="0">
+                                              <Component id="lblNineteenth" min="-2" pref="39" max="-2" attributes="0"/>
+                                              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                                          </Group>
                                       </Group>
                                   </Group>
                               </Group>
                           </Group>
                       </Group>
                   </Group>
-                  <EmptySpace pref="83" max="32767" attributes="0"/>
+                  <EmptySpace pref="77" max="32767" attributes="0"/>
               </Group>
           </Group>
         </DimensionLayout>
@@ -260,9 +261,9 @@
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
                                   <Component id="lblTwentieth" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
                                   <Component id="lblThirteenth" min="-2" pref="29" max="-2" attributes="0"/>
-                                  <EmptySpace min="-2" pref="69" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="64" max="-2" attributes="0"/>
                                   <Component id="lblTwelfth" min="-2" pref="29" max="-2" attributes="0"/>
                                   <EmptySpace min="51" pref="51" max="-2" attributes="0"/>
                                   <Component id="lblFourteenth" min="-2" pref="29" max="-2" attributes="0"/>
@@ -286,7 +287,7 @@
                           </Group>
                           <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="0" attributes="0">
-                              <Group type="102" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
                                   <Group type="103" groupAlignment="0" attributes="0">
                                       <Component id="btnSeventeenth" min="-2" max="-2" attributes="0"/>
                                       <Component id="btnEighteenth" min="-2" max="-2" attributes="0"/>
@@ -295,19 +296,16 @@
                                   </Group>
                                   <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
                                   <Component id="lblEighth" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace min="11" pref="11" max="-2" attributes="0"/>
-                                  <Group type="103" groupAlignment="0" attributes="0">
-                                      <Component id="btnTwentyfirst" min="-2" max="-2" attributes="0"/>
-                                      <Component id="btnTwentysecond" min="-2" max="-2" attributes="0"/>
-                                      <Component id="btnTwentythird" min="-2" max="-2" attributes="0"/>
-                                      <Component id="btnTwentyfourth" min="-2" max="-2" attributes="0"/>
-                                  </Group>
                               </Group>
-                              <Group type="102" alignment="0" attributes="0">
-                                  <Component id="lblSixteenth" min="-2" pref="29" max="-2" attributes="0"/>
-                                  <EmptySpace min="-2" pref="66" max="-2" attributes="0"/>
-                                  <Component id="lblSeventeenth" min="-2" pref="29" max="-2" attributes="0"/>
-                              </Group>
+                              <Component id="lblSixteenth" alignment="0" min="-2" pref="29" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="lblSeventeenth" min="-2" pref="29" max="-2" attributes="0"/>
+                              <Component id="btnTwentyfirst" min="-2" max="-2" attributes="0"/>
+                              <Component id="btnTwentysecond" min="-2" max="-2" attributes="0"/>
+                              <Component id="btnTwentythird" min="-2" max="-2" attributes="0"/>
+                              <Component id="btnTwentyfourth" min="-2" max="-2" attributes="0"/>
                           </Group>
                       </Group>
                       <Group type="102" alignment="0" attributes="0">
@@ -315,7 +313,7 @@
                           <Component id="lblEleventh" min="-2" max="-2" attributes="0"/>
                       </Group>
                   </Group>
-                  <EmptySpace min="5" pref="5" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="16" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Component id="lblNinth" min="-2" max="-2" attributes="0"/>
                       <Component id="lblTwentyfirst" min="-2" pref="26" max="-2" attributes="0"/>
